@@ -1,2 +1,3 @@
-apt install proot-distro
-wget https://github.com/jubinson/debian-rootfs/blob/master/multistrap_debian-ports.conf
+apt install wget
+wget https://cdimage.ubuntu.com/ubuntu-base/releases/14.04/release/ubuntu-base-14.04-core-armhf.tar.gz
+apt install tigervnc
